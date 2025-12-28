@@ -1,4 +1,4 @@
-# Scratchify Blox 2
+# Scratchify Blox 2 [TO BE FIXED]
 
 A Roblox Studio plugin that brings block-based programming to Roblox, inspired by Scratch. This tool allows developers to create scripts visually using drag-and-drop blocks, making programming more accessible and intuitive.
 
